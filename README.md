@@ -65,8 +65,9 @@ or you can can clone the app and run on your own
 ![App Screenshot](https://github.com/sai-charan2003/To-DO-List/assets/83913880/dce57dcf-c27f-4963-8e27-f4dba53b908a)
 
 ### Design Wireframe
+![925shots_so](https://github.com/sai-charan2003/To-Do-List/assets/83913880/e7fe18e4-42e3-4ab6-ac09-00a53ecd701c)
 
-![925shots_so](https://github.com/sai-charan2003/Battery-Tracker-Duplicate-/assets/83913880/37ee5fe8-2ec6-4e6f-b27b-9c51521cb941)
+
 
 ## Walkthough video
 
