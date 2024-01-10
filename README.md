@@ -19,7 +19,7 @@ Effortlessly manage your tasks and boost productivity with To-Do List, a powerfu
 
 - Google Material 3 design: Built with Google's Material Design 3 principles, To-Do List boasts a sleek and intuitive interface that adapts dynamically to your wallpaper colors for a personalized touch.
 - MVVM architecture: The app utilizes the robust MVVM architecture, contributing to its stability, maintainability, and future growth potential.
-- Room Database: All data is stored locally on your device using the reliable and efficient ROOM database, based on SQLite, ensuring your information remains secure and readily accessible.
+- Room Database(Local Storage): All data is stored locally on your device using the reliable and efficient ROOM database, based on SQLite, ensuring your information remains secure and readily accessible.
 - Kotlin: Utilized the powerful Jetpack Compose framework based on Kotlin to build this app."
 
 ## Setup Process
