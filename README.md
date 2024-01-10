@@ -1,16 +1,31 @@
 # To-Do List
 
-To-Do List is a task management application designed to streamline your daily organization. With an intuitive interface, users can effortlessly add new tasks, providing titles, descriptions for their taks, and customizable categories to suit individual preferences. Also users can set priorities for each task.This app offers the flexibility to create personalized categories, enabling users to organize tasks according to their unique workflow and priorities.
+Streamline Your Daily Organization
+Effortlessly manage your tasks and boost productivity with To-Do List, a powerful and intuitive task management application. Designed with simplicity and efficiency in mind, To-Do List allows you to effortlessly:
 
-The app's calendar view provides a holistic perspective, allowing users to visualize their tasks and events based on due dates. This feature enhances planning and coordination by presenting a clear overview of scheduled tasks within a specific timeframe.
+- Add new tasks: Create tasks with clear titles, detailed descriptions, and customizable categories to match your workflow and preferences.
 
-By incorporating Google's Material Design 3 principles, "To-Do List" likely boasts a sleek and polished UI. This app sets takes colors from the wallapers and adjust the colors of the elements accordingly. This app used MVVM arictecture
+- Add Due Dates: Effortlessly manage tasks by setting individual due dates and visualizing them in a convenient calendar view.
 
-All the task will be stored locally  in the device. To do this it uses ROOM database which is based on SQLite
+- Prioritize tasks: Set priorities for each task, ensuring you focus on the most important matters first.
+
+- Personalize your organization: Create custom categories to categorize tasks in a way that works best for you, enhancing clarity and accountability.
+
+- Status: Assign a status to each task, such as 'New Task,' 'In Progress,' or 'Completed.
+
+- Visualize your schedule: Gain a holistic perspective with the calendar view, which displays tasks and events based on due dates. This visual overview fosters effective planning and coordination, letting you see your workload at a glance.
+
+## Tech Stack used
+
+- Google Material 3 design: Built with Google's Material Design 3 principles, To-Do List boasts a sleek and intuitive interface that adapts dynamically to your wallpaper colors for a personalized touch.
+- MVVM architecture: The app utilizes the robust MVVM architecture, contributing to its stability, maintainability, and future growth potential.
+- Room Database: All data is stored locally on your device using the reliable and efficient ROOM database, based on SQLite, ensuring your information remains secure and readily accessible.
+- Kotlin: Utilized the powerful Jetpack Compose framework based on Kotlin to build this app."
 
 ## Setup Process
 
 You can download the app from the below link:
+
 [Download Link](https://github.com/sai-charan2003/To-Do-List/releases/download/v1.0/app-release.apk).
 
 or you can can clone the app and run on your own
@@ -49,11 +64,13 @@ or you can can clone the app and run on your own
 
 ![App Screenshot](https://github.com/sai-charan2003/To-DO-List/assets/83913880/dce57dcf-c27f-4963-8e27-f4dba53b908a)
 
-### Design WireFrame
+### Design Wireframe
 
-![WireFrame](https://github.com/sai-charan2003/Battery-Tracker-Duplicate-/assets/83913880/69270618-bbe1-4894-9568-7a7dccb2b343)
+![925shots_so](https://github.com/sai-charan2003/Battery-Tracker-Duplicate-/assets/83913880/37ee5fe8-2ec6-4e6f-b27b-9c51521cb941)
 
+## Walkthough video
 
+https://github.com/sai-charan2003/To-Do-List/assets/83913880/51a0f7eb-7168-4b61-abe0-99e38eb35045
 
 
 
