@@ -5,6 +5,8 @@ Effortlessly manage your tasks and boost productivity with To-Do List, a powerfu
 
 - Add new tasks: Create tasks with clear titles, detailed descriptions, and customizable categories to match your workflow and preferences.
 
+- Edit tasks: Tasks can be easily edited
+
 - Add Due Dates: Effortlessly manage tasks by setting individual due dates and visualizing them in a convenient calendar view.
 
 - Prioritize tasks: Set priorities for each task, ensuring you focus on the most important matters first.
